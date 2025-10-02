@@ -1,5 +1,13 @@
 <h1 align="center">🌐 NetPractice</h1>
 
+---
+
+<p align="center">
+  <img src="https://github.com/mbah24-dev/mbah24-dev/blob/main/42_badges/netpracticee.png" alt="NetPractice 42 project badge"/>
+</p>
+
+---
+
 <p align="center">
   Projet de l'école 42 — Réalisé par <strong>BAH Mamadou</strong> (dit <em>mbah</em>)
 </p>
@@ -31,7 +39,7 @@
 
 <ol>
   <li>Cloner le dépôt :
-    <pre><code>git clone https://github.com/votre-compte/NetPractice.git</code></pre>
+    <pre><code>git clone git@github.com:mbah24-dev/NetPractice.git</code></pre>
   </li>
   <li>Ouvrir le projet NetPractice via l’interface web de 42.</li>
   <li>Réaliser les exercices dans l’ordre (levels 0 → 9).</li>
