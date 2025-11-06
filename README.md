@@ -54,7 +54,7 @@
 <ul>
   <li><code>README.md</code> (ce fichier, en HTML)</li>
   <li>Les fichiers de configuration générés par NetPractice</li>
-  <li>Éventuellement un dossier <code>notes/</code> pour vos explications et solutions</li>
+  <li>Éventuellement un dossier <code>solution/</code> pour vos explications et solutions</li>
 </ul>
 
 ---
